@@ -1,0 +1,3 @@
+C:/Users/4104370/Desktop/cpp-vision-monitor/build/CMakeFiles/VisionMonitor.dir
+C:/Users/4104370/Desktop/cpp-vision-monitor/build/CMakeFiles/edit_cache.dir
+C:/Users/4104370/Desktop/cpp-vision-monitor/build/CMakeFiles/rebuild_cache.dir
