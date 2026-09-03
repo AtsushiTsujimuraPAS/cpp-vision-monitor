@@ -1,6 +1,9 @@
-#include <iostream>
+#include "Application.h"
+#include "DummyInferenceEngine.h"
 
 int main(){
-    std::cout << "hello" << std::endl;
+    DummyInferenceEngine engine;
+    Application app(engine);
+    app.run();
     return 0;
 }
